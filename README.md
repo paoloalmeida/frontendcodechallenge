@@ -8,8 +8,6 @@ Seu código deverá ser hospedado em um repositório [forkado](https://github.co
 
 Estruture seu projeto, utilize as bibliotecas e os plugins que está acostumado a trabalhar.
 
-## Suporte
-
 O projeto deverá dar suporte aos seguintes navegadores:
 
 - Google Chrome 34
