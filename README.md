@@ -1,6 +1,22 @@
 # Front End Code Challenge
 
-Code challenge for front end developers.
+Desenvolva a interface do projeto a partir do PSD enviado por e-mail.
 
+## Instruções
 
-Ao terminar o teste mande um email para techjobs@brasilct.com com seu curriculum e o link para seu repositório.
+Seu código deverá ser hospedado em um repositório [forkado](https://github.com/brasilct/frontendcodechallenge/fork) a partir deste no GitHub.
+
+Estruture seu projeto, utilize as bibliotecas e os plugins que está acostumado a trabalhar.
+
+## Suporte
+
+O projeto deverá dar suporte aos seguintes navegadores:
+
+- Google Chrome 34
+- Internet Explorer 8
+- Mozilla Firefox 29
+- Safari 7
+
+## Entrega
+
+Ao terminar o teste, envie um e-mail para techjobs@brasilct.com com seu curriculum e o link para o seu repositório.
