@@ -1,6 +1,6 @@
 # Front End Code Challenge
 
-Desenvolva a interface do projeto a partir do PSD enviado por e-mail.
+Desenvolva a interface do projeto a partir do layout enviado por e-mail.
 
 ## Instruções
 
@@ -17,4 +17,4 @@ O projeto deverá dar suporte aos seguintes navegadores:
 
 ## Entrega
 
-Ao terminar o teste, envie um e-mail para techjobs@brasilct.com com seu curriculum e o link para o seu repositório.
+Ao terminar, envie um e-mail para techjobs@brasilct.com com seu curriculum e o link para o seu repositório.
