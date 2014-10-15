@@ -10,10 +10,10 @@ Lembre-se: a documentação do projeto também faz parte da solução.
 
 O projeto deverá dar suporte aos seguintes navegadores:
 
-- Google Chrome 34
+- Google Chrome 38 [ou mais recente]
 - Internet Explorer 8
-- Mozilla Firefox 29
-- Safari 7
+- Mozilla Firefox 29 [ou mais recente]
+- Safari 7 [ou mais recente]
 
 ## Entrega
 
